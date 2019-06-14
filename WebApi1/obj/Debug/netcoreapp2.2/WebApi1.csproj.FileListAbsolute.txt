@@ -1,0 +1,14 @@
+/Users/fredy/Documents/dotnet/2020/WebApi1/bin/Debug/netcoreapp2.2/WebApi1.deps.json
+/Users/fredy/Documents/dotnet/2020/WebApi1/bin/Debug/netcoreapp2.2/WebApi1.runtimeconfig.json
+/Users/fredy/Documents/dotnet/2020/WebApi1/bin/Debug/netcoreapp2.2/WebApi1.runtimeconfig.dev.json
+/Users/fredy/Documents/dotnet/2020/WebApi1/bin/Debug/netcoreapp2.2/WebApi1.dll
+/Users/fredy/Documents/dotnet/2020/WebApi1/bin/Debug/netcoreapp2.2/WebApi1.pdb
+/Users/fredy/Documents/dotnet/2020/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.csprojAssemblyReference.cache
+/Users/fredy/Documents/dotnet/2020/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.csproj.CoreCompileInputs.cache
+/Users/fredy/Documents/dotnet/2020/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.RazorAssemblyInfo.cache
+/Users/fredy/Documents/dotnet/2020/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.RazorAssemblyInfo.cs
+/Users/fredy/Documents/dotnet/2020/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.AssemblyInfoInputs.cache
+/Users/fredy/Documents/dotnet/2020/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.AssemblyInfo.cs
+/Users/fredy/Documents/dotnet/2020/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.RazorTargetAssemblyInfo.cache
+/Users/fredy/Documents/dotnet/2020/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.dll
+/Users/fredy/Documents/dotnet/2020/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.pdb
